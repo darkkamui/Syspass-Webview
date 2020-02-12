@@ -14,7 +14,8 @@ the picture "Page Syspass.png" refer to last screen. *This is the code of the ap
 - The app files are "Syspass.apk" and "Syspass.aia", the app can be downloaded and installed in android devices.
 The .aia document has to be imported on thunkable or app inventor.
 
-*APP API 28
+*APP API
+- 28+
 
 *Package
 - com.aleixo1lucas.Syspass
