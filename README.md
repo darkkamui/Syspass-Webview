@@ -1,4 +1,4 @@
-This is an app to easely access your Syspasss interface in your android smarthphone.
+This is an app to easely access your Syspasss interface in your android smartphone.
 *The app is in the play store*
 
 This app was made to personal use, but is usefull to you feel free to use, 
