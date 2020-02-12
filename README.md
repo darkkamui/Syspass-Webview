@@ -1,4 +1,4 @@
-This is an app to access easely your Syspasss interface in your android smarthphone.
+This is an app to easely access your Syspasss interface in your android smarthphone.
 *The app is in the play store*
 
 This app was made to personal use, but is usefull to you feel free to use, 
@@ -18,5 +18,7 @@ The .aia document has to be imported on thunkable or app inventor.
 
 *Package
 - com.aleixo1lucas.Syspass
+
+*You can edit the code importing the project .aia in your acount on thunkable or app inventor platform.
 
 :)
