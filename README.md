@@ -19,6 +19,9 @@ The .aia document has to be imported on thunkable or app inventor.
 *Package
 - com.aleixo1lucas.Syspass
 
-*You can edit the code importing the project .aia in your acount on thunkable or app inventor platform.
+*EDIT SOURCE
+- You can edit the code importing the project .aia in your acount on thunkable or app inventor platform.
+https://app.thunkable.com | https://appinventor.mit.edu/
+
 
 :)
